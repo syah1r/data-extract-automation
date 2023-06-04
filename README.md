@@ -1,5 +1,4 @@
-# data-extract-automation
-Data Extract Using VBA
+# Automated Data Extraction Using VBA
 
 I use VBA on a daily basis to automate many of the analysis, visualization and reporting of financial datasets. From time to time, I have to create new codes and automation to help programmers in our team run mundane tasks.
 
